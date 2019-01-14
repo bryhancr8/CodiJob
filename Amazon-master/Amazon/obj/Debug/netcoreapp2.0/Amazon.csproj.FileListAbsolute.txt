@@ -1,0 +1,11 @@
+C:\Users\Bryan\Desktop\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.deps.json
+C:\Users\Bryan\Desktop\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.runtimeconfig.json
+C:\Users\Bryan\Desktop\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.runtimeconfig.dev.json
+C:\Users\Bryan\Desktop\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.dll
+C:\Users\Bryan\Desktop\Amazon-master\Amazon\bin\Debug\netcoreapp2.0\Amazon.pdb
+C:\Users\Bryan\Desktop\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.AssemblyInfoInputs.cache
+C:\Users\Bryan\Desktop\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.AssemblyInfo.cs
+C:\Users\Bryan\Desktop\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.dll
+C:\Users\Bryan\Desktop\Amazon-master\Amazon\obj\Debug\netcoreapp2.0\Amazon.pdb
